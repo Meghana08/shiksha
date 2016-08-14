@@ -1,0 +1,9 @@
+#nav li:hover > a {
+    color: #00B4FF;
+}
+#nav li:hover {
+    color: #00B4FF;
+    background: url('../img/menu/lavalamp.png') no-repeat 0 0 scroll #121212;
+    background-position: center top;
+    outline: 0 none;
+}
